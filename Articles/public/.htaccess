@@ -1,4 +1,4 @@
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^article-get-([0-9]+)\.html$ article/get/$1 [L,QSA]
+RewriteRule ^Intelligence-artificielle-article-get-([0-9]+)\.html$ Intelligence-artificielle/article/get/$1 [L,QSA]

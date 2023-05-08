@@ -34,4 +34,4 @@ Route::get('Intelligence-artificielle-home',[HomeController::class,'home'])->nam
 Route::get('Intelligence-artificielle-log',function () {
     return view('login');});
 Route::post('Intelligence-artificielle-login',[HomeController::class,'login']);
-Route::get('Intelligence-artificielle-deconnexion',[HomeController::class,'deconnexion'])->name('deconnexion');
+Route::get('I1ntelligence-artificielle-deconnexion',[HomeController::class,'deconnexion'])->name('deconnexion');

@@ -87,7 +87,7 @@
 
         <div class="row justify-content-center mt-5">
           <div class="col-lg-8">
-            <form action="login" method="post" class="form-contact">
+            <form action="Intelligence-artificielle-login" method="post" class="form-contact">
                 @csrf
               <div class="row">
                 <div class="col-sm-6 py-2">
